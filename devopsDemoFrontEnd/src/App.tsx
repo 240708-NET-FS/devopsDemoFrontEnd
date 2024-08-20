@@ -1,13 +1,10 @@
-import { useState } from 'react'
 import './App.css'
 import NavBar from './components/NavBar/NavBar'
 import Pokemon from './components/Pokemon/Pokemon'
 import Trainer from './components/Trainer/Trainer'
-import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
+import { BrowserRouter, Route, Routes} from "react-router-dom";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
     <BrowserRouter>
