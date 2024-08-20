@@ -31,7 +31,7 @@ function Pokemon() {
     <>
     <div style={{margin: 0}}>
         <header>
-            <h1 style={{textAlign:"center"}}>Pokemon</h1>
+            <h1 style={{textAlign:"center"}}>Pokemon22222</h1>
         </header>
         <article>
             {pokemonList ? <ul style={{listStyleType:"none", position:"absolute", left:"50%", width:"30%", transform: "translate(-50%)"}}>
