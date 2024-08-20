@@ -39,7 +39,7 @@ function Trainer() {
                         <h2>Password: {t.password}</h2>
                     </li>
                 ))}
-            </ul> : <p>There are no pokemon</p>}
+            </ul> : <p>There are no trainers</p>}
         </article>
     </div>
     </>
